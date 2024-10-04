@@ -1,2 +1,2 @@
-# SENRIS
-This HMI program is designed to communicate with various sensors and actuators. It collects the signals or values they provide and maintains a record of them, which is then stored in a database to track and analyze their behavior.
+# SENRIS Dashboard
+This dashboard is designed to display data from sensors and actuators. It retrieves data from an API and allows users to view historical information, including several weeks of data. Users can also perform operations and analyses on the displayed data to gain insights into sensor behavior and system performance.
